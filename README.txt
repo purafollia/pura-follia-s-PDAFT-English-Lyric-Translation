@@ -8,4 +8,4 @@ Credits and a list of currently translated songs are in credits.txt .
 
 I own nothing! If anyone wants me to remove the translations i will do so.
 
-Currently translated progress : 20 / 240
+Currently translated progress : 30 / 240
